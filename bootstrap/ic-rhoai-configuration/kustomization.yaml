@@ -12,7 +12,5 @@ resources:
   # wave 1
   - rbac-job-enable-modelcar.yaml
   - workbench-imagestream.yaml
-  - odhdashboardconfig.yaml
-  - accelerator-profile.yaml
   # wave 2
   - job-enable-modelcar.yaml
